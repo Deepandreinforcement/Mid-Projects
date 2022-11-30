@@ -1,0 +1,92 @@
+﻿ID;OBJECT (PAPER);OBJECT (2014 REL.);OBJECT (2017 REL.);SUPER CATEGORY
+1;person;person;person;person
+2;bicycle;bicycle;bicycle;vehicle
+3;car;car;car;vehicle
+4;motorcycle;motorcycle;motorcycle;vehicle
+5;airplane;airplane;airplane;vehicle
+6;bus;bus;bus;vehicle
+7;train;train;train;vehicle
+8;truck;truck;truck;vehicle
+9;boat;boat;boat;vehicle
+10;traffic light;traffic light;traffic light;outdoor
+11;fire hydrant;fire hydrant;fire hydrant;outdoor
+12;street sign;-;-;outdoor
+13;stop sign;stop sign;stop sign;outdoor
+14;parking meter;parking meter;parking meter;outdoor
+15;bench;bench;bench;outdoor
+16;bird;bird;bird;animal
+17;cat;cat;cat;animal
+18;dog;dog;dog;animal
+19;horse;horse;horse;animal
+20;sheep;sheep;sheep;animal
+21;cow;cow;cow;animal
+22;elephant;elephant;elephant;animal
+23;bear;bear;bear;animal
+24;zebra;zebra;zebra;animal
+25;giraffe;giraffe;giraffe;animal
+26;hat;-;-;accessory
+27;backpack;backpack;backpack;accessory
+28;umbrella;umbrella;umbrella;accessory
+29;shoe;-;-;accessory
+30;eye glasses;-;-;accessory
+31;handbag;handbag;handbag;accessory
+32;tie;tie;tie;accessory
+33;suitcase;suitcase;suitcase;accessory
+34;frisbee;frisbee;frisbee;sports
+35;skis;skis;skis;sports
+36;snowboard;snowboard;snowboard;sports
+37;sports ball;sports ball;sports ball;sports
+38;kite;kite;kite;sports
+39;baseball bat;baseball bat;baseball bat;sports
+40;baseball glove;baseball glove;baseball glove;sports
+41;skateboard;skateboard;skateboard;sports
+42;surfboard;surfboard;surfboard;sports
+43;tennis racket;tennis racket;tennis racket;sports
+44;bottle;bottle;bottle;kitchen
+45;plate;-;-;kitchen
+46;wine glass;wine glass;wine glass;kitchen
+47;cup;cup;cup;kitchen
+48;fork;fork;fork;kitchen
+49;knife;knife;knife;kitchen
+50;spoon;spoon;spoon;kitchen
+51;bowl;bowl;bowl;kitchen
+52;banana;banana;banana;food
+53;apple;apple;apple;food
+54;sandwich;sandwich;sandwich;food
+55;orange;orange;orange;food
+56;broccoli;broccoli;broccoli;food
+57;carrot;carrot;carrot;food
+58;hot dog;hot dog;hot dog;food
+59;pizza;pizza;pizza;food
+60;donut;donut;donut;food
+61;cake;cake;cake;food
+62;chair;chair;chair;furniture
+63;couch;couch;couch;furniture
+64;potted plant;potted plant;potted plant;furniture
+65;bed;bed;bed;furniture
+66;mirror;-;-;furniture
+67;dining table;dining table;dining table;furniture
+68;window;-;-;furniture
+69;desk;-;-;furniture
+70;toilet;toilet;toilet;furniture
+71;door;-;-;furniture
+72;tv;tv;tv;electronic
+73;laptop;laptop;laptop;electronic
+74;mouse;mouse;mouse;electronic
+75;remote;remote;remote;electronic
+76;keyboard;keyboard;keyboard;electronic
+77;cell phone;cell phone;cell phone;electronic
+78;microwave;microwave;microwave;appliance
+79;oven;oven;oven;appliance
+80;toaster;toaster;toaster;appliance
+81;sink;sink;sink;appliance
+82;refrigerator;refrigerator;refrigerator;appliance
+83;blender;-;-;appliance
+84;book;book;book;indoor
+85;clock;clock;clock;indoor
+86;vase;vase;vase;indoor
+87;scissors;scissors;scissors;indoor
+88;teddy bear;teddy bear;teddy bear;indoor
+89;hair drier;hair drier;hair drier;indoor
+90;toothbrush;toothbrush;toothbrush;indoor
+91;hair brush;-;-;indoor
